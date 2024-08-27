@@ -27,12 +27,12 @@
 
 ## Installation
 
-  The application can be run locally by dowloading the files and using npm i to install all the dependencies which include:"express" and mongoose . The user will run the server using npm start and make calls to dedicated routes.
+  The application can be run locally by dowloading the files and using npm i to install all the dependencies which include:"express" and mongoose . The user will run the server using npm start and make calls to dedicated routes with application such as insomnia.
 
 
 ## Usage
 
-  The user will install all dependencies then start the server using npm start. User do CRUD operations like view all, view one, create, update, delete, add freind, delete freind to the user collection and documents. Users can also do CRUD operations to the Thoughts collection and documents like: view all, view one, create, update, delete, add rection, and remove reaction.
+  The user will install all dependencies then start the server using npm start. User do CRUD operations like view all, view one, create, update, delete, add freind, delete freind to the user collection and documents. Users can also do CRUD operations to the Thoughts collection and documents like: view all, view one, create, update, delete, add rection, and remove reaction. These crud operations are made as api calls to routes defined in the server using applications such as insomnia.
 ## License
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) for more information on the MIT license or other licenses please got to [https://opensource.guide/](https://opensource.guide/)
