@@ -2,7 +2,7 @@
 
 ## Description
 
-  In this application we can make api calls to a server in order to create users, thoughts which act as posts and reactions on those posts. Thoughts should to associated to users and reactions to thoughts. Using mongoose models realtionships are established and connection to the database to query is established as well.
+  In this application we can make api calls to a server in order to create,view,update and delte users, thoughts which act as posts, and reactions on those posts. Thoughts should to associated to users and reactions to thoughts. Using mongoose models realtionships are established and connection to the database to query is established as well.
 
 
 
